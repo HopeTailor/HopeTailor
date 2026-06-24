@@ -1,23 +1,32 @@
-# 👋 Hi, I'm Omid (Hope Tailor)
+# 👋 Hi, I'm Omid
 
 **Electrical Engineering Student at Shahid Beheshti University (SBU)**  
-**Frontend Development Learner & Enthusiast**
+**Frontend Developer & Embedded Systems Enthusiast**
 
 ---
 
 ### 📋 About Me
 - 🎓 **Education:** Electrical Engineering at Shahid Beheshti University.
-- 💻 **Focus:** Building responsive web interfaces using HTML, CSS, and JavaScript.
-- 🛠️ **Current Project:** Working on [Food Wagon](https://github.com/HopeTailor/food-wagon) (Food Delivery Landing Page).
-- ✉️ **Contact:** [darziomid678@gamil.com]
+- 💻 **Web Dev:** Focused on Frontend technologies (HTML, CSS, JavaScript).
+- 🔌 **Embedded:** Working with C, ESP32, and Microcontrollers.
+- 🛠️ **Current Project:** [Food Wagon](https://github.com/HopeTailor/food-wagon) & Embedded system prototypes.
+- ✉️ **Contact:** [darziomid678@gmail.com]
 
 ---
 
 ### 🛠️ Skills & Tools
+
+#### 🌐 Web Development
 - **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks/Libraries:** Tailwind CSS, Bootstrap
-- **Tools:** Git, GitHub, VS Code
-- **Engineering:** MATLAB, Circuit Analysis
+- **Frameworks:** Tailwind CSS, Bootstrap
+
+#### ⚡ Embedded & Engineering
+- **Languages:** C, C++ (Arduino IDE/Espressif)
+- **Hardware:** ESP32, Microcontrollers, Circuit Design
+- **Software:** MATLAB, Proteus / Altium Designer
+
+#### 🔧 Version Control
+- Git, GitHub
 
 ---
 
