@@ -9,7 +9,7 @@
 - 🎓 **Education:** Electrical Engineering at Shahid Beheshti University.
 - 💻 **Web Dev:** Focused on Frontend technologies (HTML, CSS, JavaScript).
 - 🔌 **Embedded:** Working with C, ESP32, and Microcontrollers.
-- 🛠️ **Current Project:** [Food Wagon](https://github.com/HopeTailor/food-wagon) & Embedded system.
+- 🛠️ **Current Project:** Embedded system.
 - ✉️ **Contact:** [darziomid678@gmail.com]
 
 ---
