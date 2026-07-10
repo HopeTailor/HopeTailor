@@ -31,8 +31,10 @@
 ---
 
 ### 📊 GitHub Activity
-![Omid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HopeTailor&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HopeTailor&layout=compact&theme=transparent)
+[![Omid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HopeTailor&show_icons=true&theme=tokyonight)](https://github.com/HopeTailor)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HopeTailor&layout=compact&theme=tokyonight)](https://github.com/HopeTailor)
+
 
 ---
 
